@@ -1,0 +1,7 @@
+GEANNE WEAR — SITE DEMONSTRATIVO
+
+Abra index.html no navegador para testar.
+Para publicar: envie index.html ao repositório GitHub ou arraste a pasta para Netlify Drop.
+Produtos, preços, tecidos e tamanhos são exemplos fictícios. Fotos externas do Unsplash requerem internet e podem não corresponder exatamente ao item.
+O carrinho fica salvo no navegador e o botão de finalizar abre WhatsApp (41) 98498-3951 com o resumo.
+Edite a lista products no final do arquivo index.html para trocar itens e preços.
